@@ -1,0 +1,134 @@
+Group	Complex	Name	ID	Function	flybase	review	emphasized as PcG/trxG in review	USE ONLY IN POSTERIOR ANALYSIS	coment
+trxG	TAC1	trx	FBgn0003862	stymulate H3K27ac by nej product by H3K27me1	1	1	1	0	CONTROVERSIAL COMPLEX. opposing role to PcG. Highlighted in review
+trxG	TAC1	nej	FBgn0261617	acetylates H3K27	1	1	0	0	CONTROVERSIAL COMPLEX
+trxG	TAC1	Sbf	FBgn0025802	antiphosphatase. Not clear	1	1	0	0	CONTROVERSIAL COMPLEX
+									
+trxG	COMPASS-SET1	Ash2	FBgn0000139	stabilize the complex	1	1	1	0	
+trxG	COMPASS-SET1	dSET1	FBgn0040022	di and trimethilate H3K4. Characterize the complex	1	1	0	0	Not highlighted as trxG in the review
+trxG	COMPASS-SET1	Rbbp5	FBgn0036973	NA	1	1	0	0	
+trxG	COMPASS-SET1	Wds	FBgn0040066	NA	1	1	0	0	
+trxG	COMPASS-SET1	Dpy-30L1	FBgn0032293	NA	1	1	0	0	
+trxG	COMPASS-SET1	Hcf	FBgn0039904	NA	1	1	0	0	only showed at reviews figure, not at text
+trxG	COMPASS-SET1	Wdr82	FBgn0032030	NA	1	1	0	0	only showed at reviews figure, not at text
+trxG	COMPASS-SET1	Cfp1	FBgn0030121	help recruit compex to rich CpG areas	1	1	0	0	only showed at reviews figure, not at text
+									
+trxG	COMPASS-TRX	Ash2	FBgn0000139	stabilize the complex	1	1	1	0	
+trxG	COMPASS-TRX	trx	FBgn0003862	monomethilation of H3K4	1	1	1	0	 opposing role to PcG. Highlighted in review
+trxG	COMPASS-TRX	Rbbp5	FBgn0036973	NA	1	1	0	0	
+trxG	COMPASS-TRX	Wds	FBgn0040066	NA	1	1	0	0	
+trxG	COMPASS-TRX	Dpy-30L1	FBgn0032293	NA	1	1	0	0	
+trxG	COMPASS-TRX	Hcf	FBgn0039904	NA	1	1	0	0	only showed at reviews figure, not at text
+trxG	COMPASS-TRX	Mnn1	FBgn0031885	NA	1	1	0	0	only showed at reviews figure, not at text
+									
+trxG	COMPASS-TRR	Ash2	FBgn0000139	stabilize the complex	1	1	1	0	core of all Compass complexes
+trxG	COMPASS-TRR	Trr	FBgn0023518	methilates H3K4. Trimetilates acording to Flybase	1	1	0	0	methiltransferase of the TRR COMPASS complex
+trxG	COMPASS-TRR	Rbbp5	FBgn0036973	NA	1	1	0	0	core of all Compass complexes
+trxG	COMPASS-TRR	Wds	FBgn0040066	NA	1	1	0	0	core of all Compass complexes
+trxG	COMPASS-TRR	Dpy-30L1	FBgn0032293	NA	1	1	0	0	core of all Compass complexes
+trxG	COMPASS-TRR	Ncoa6	FBgn0031698	recruits TRR-COMPASS to hippo target genes 	1	0	NA	0	MAY BE TRUE. Complex not represented in review. Components acording to Flybase and Polycomb and Trithorax page
+trxG	COMPASS-TRR	Pa1	FBgn0030294	NA	1	0	NA	0	MAY BE TRUE. Complex not represented in review. Components acording to Flybase and Polycomb and Trithorax page
+trxG	COMPASS-TRR	Utx	FBgn0260749	H3K27 demethylase	1	0	NA	0	MAY BE TRUE. Complex not represented in review. Components acording to Flybase and Polycomb and Trithorax page
+trxG	COMPASS-TRR	Ptip	FBgn0052133	NA	1	0	NA	0	MAY BE TRUE. Complex not represented in review. Components acording to Flybase and Polycomb and Trithorax page
+trxG	COMPASS-TRR	Lpt	FBgn0263667	NA	1	0	NA	0	MAY BE TRUE. complex not represented in review. Compoonent acording to only flybase
+									
+trxG	ASH1	Ash1	FBgn0005386	dimethilates H3K36	1	1	1	0	NOT REALLY A COMPLEX. More like a stand-alone protein. opposing role to PcG. Highlighted in review
+trxG	ASH1	fs(1)h	FBgn0004656	Histone binding and release of poissed RNA-Pol II	0	1	1	0	Found to interact with Ash1 and give homeotic phenotype when mutated (isoform S)  in review . Therefore highlighted as trxG
+									
+trxG	BAP	brm	FBgn0000212	ATPAse subunit	1	1	1	0	
+trxG	BAP	mor	FBgn0002783	interact with Brm for the formation of the core BAP. Predicted histon binding 	1	1	1	0	
+trxG	BAP	osa	FBgn0261885	Possible DNA binding	1	1	1	0	
+trxG	BAP	Bap60	FBgn0025463	required for BAP complex function (acording to FlyBase)	1	1	0	0	highlighted as non trxG component of BAP/PBAP
+trxG	BAP	Act5C	FBgn0000042	NA	1	1	0	0	highlighted as non trxG component of BAP/PBAP
+trxG	BAP	Act42A	FBgn0000043	NA	1	0	NA	0	only mentioned in FlyBase
+trxG	BAP	Bap55	FBgn0025716	NA	1	1	0	0	highlighted as non trxG component of BAP/PBAP
+trxG	BAP	Snr1	FBgn0011715	NA	1	1	0	0	no homeotic pheno when mutated
+trxG	BAP	Bap111	FBgn0030093	important for BAP and PBAP function. Predicted DNA binding	1	1	0	0	
+									
+trxG	PBAP	brm	FBgn0000212	ATPAse subunit	1	1	1	0	
+trxG	PBAP	mor	FBgn0002783	interact with Brm for the formation of the core BAP. Predicted histon binding 	1	1	1	0	
+trxG	PBAP	e(y)3	FBgn0087008	NA	1	1	0	0	Not identified in genetic trxG screens, but revert homeotic transformation in Pc mutation context. Nevertheless represented as biochemical component in scheme. lots of other functions (Jack stat, repressor at pericentric heterochromatin)
+trxG	PBAP	Bap60	FBgn0025463	required for BAP complex function (acording to FlyBase)	1	1	0	0	highlighted as non trxG component of BAP/PBAP
+trxG	PBAP	Act5C	FBgn0000042	NA	1	1	0	0	highlighted as non trxG component of BAP/PBAP
+trxG	PBAP	Act42A	FBgn0000043	NA	1	0	NA	0	only mentioned in FlyBase
+trxG	PBAP	Bap55	FBgn0025716	NA	1	1	0	0	highlighted as non trxG component of BAP/PBAP
+trxG	PBAP	Snr1	FBgn0011715	NA	1	1	0	0	no homeotic pheno when mutated
+trxG	PBAP	Bap111	FBgn0030093	important for BAP and PBAP function. Predicted DNA binding	1	1	0	0	
+trxG	PBAP	BAP170	FBgn0042085	NA	1	1	0	0	not identified in genetic trxG screens.represented as biochemical component in scheme.
+trxG	PBAP	Polybromo	FBgn0039227	NA	1	1	0	0	not identified in genetic trxG screens.represented as biochemical component in scheme.
+									
+trxG	KIS	Kis	FBgn0266557	counteracts PcG promoting Ash1 and trx functions	0	1	1	0	only mentioned as trxG in review but given epigenetic function in flybase.
+									
+trxG	mediator	Kto	FBgn0001324	Hipotesized Kto together with Skd activates transcription of Hox genes by promoting interactions between DNA bindingregulatory proteins and the RNApol II	0	1	NA	1	CONTROVERSIAL COMPLEX only in review
+trxG	mediator	Skd	FBgn0003415	hipotesized Skd together with Kto activates transcription of Hox genes by promoting interactions between DNA bindingregulatory proteins and the RNApol II	0	1	NA	1	CONTROVERSIAL COMPLEX only in review
+trxG	cohesins	vtd	FBgn0260987	Dominant supressors of Pc mutations. Belongs to cohesin complex mutation gives trxG phenotypes	0	1	NA	1	CONTROVERSIAL COMPLEX only in review
+trxG	cohesins	Nipped-B	FBgn0026401	Dominant supressors of Pc mutations. Participates in the cohesin loop formation. Its mutation causes trxG phenotypes	0	1	NA	1	CONTROVERSIAL COMPLEX only in review
+									
+trxG	NuRF	Caf1-55	FBgn0263979	histone deacetilase binding contributes to histone methiltransferase and nucleosome binding	1	0	NA	1	CONTROVERSIAL COMPLEX only in flybase and comunity doubts its function as trx. Ana says it is Rarely asociated to PREs
+trxG	NuRF	E(bx)	FBgn0263980	lisine acetilated and methilated histone binding	1	0	NA	1	CONTROVERSIAL COMPLEX only in flybase and comunity doubts its function as trx. Ana says it is Rarely asociated to PREs
+trxG	NuRF	Iswi	FBgn0263981	DNA and nucleosome dependent ATPAse	1	0	NA	1	CONTROVERSIAL COMPLEX only in flybase and comunity doubts its function as trx. Ana says it is Rarely asociated to PREs
+trxG	NuRF	Nurf-38	FBgn0263982	inorganic dephosphatase	1	0	NA	1	CONTROVERSIAL COMPLEX only in flybase and comunity doubts its function as trx. Ana says it is Rarely asociated to PREs
+									
+trxG	NuRD	Caf1-55	FBgn0263979	histone deacetilase binding contributes to histone methiltransferase and nucleosome binding	1	0	NA	1	
+trxG	NuRD	CDK2AP1	FBgn0030269	predicted DNA pol binding	1	0	NA	1	CONTROVERSIAL COMPLEX only in flybase and comunity doubts its function as trx. Ana says it is Rarely asociated to PREs
+trxG	NuRD	HDAC1	FBgn0015805	Histone deactilase and transcription correpressor activity	1	0	NA	1	CONTROVERSIAL COMPLEX only in flybase and comunity doubts its function as trx. Ana says it is Rarely asociated to PREs
+trxG	NuRD	MBD-like	FBgn0027950	Chromosome condensation and transcrption repression. Also  Histon deacetylase binding transcription corepressor activity	1	0	NA	1	CONTROVERSIAL COMPLEX only in flybase and comunity doubts its function as trx. Ana says it is Rarely asociated to PREs
+trxG	NuRD	MEP-1	FBgn0035357	Asociates to mi-2 to repress cell-specific genes. Chromatin binding	1	0	NA	1	CONTROVERSIAL COMPLEX only in flybase and comunity doubts its function as trx. Ana says it is Rarely asociated to PREs
+trxG	NuRD	Mi-2	FBgn0262519	ATP dependent nucleosome remodeler. Repress cell specific genes	1	0	NA	1	CONTROVERSIAL COMPLEX only in flybase and comunity doubts its function as trx. Ana says it is Rarely asociated to PREs
+trxG	NuRD	MTA1-like	FBgn0027951	predicted chromatin binding	1	0	NA	1	CONTROVERSIAL COMPLEX only in flybase and comunity doubts its function as trx. Ana says it is Rarely asociated to PREs
+trxG	NuRD	simj	FBgn0010762	NA	1	0	NA	1	CONTROVERSIAL COMPLEX only in flybase and comunity doubts its function as trx. Ana says it is Rarely asociated to PREs
+									
+									
+PcG	PRC1	Pc	FBgn0003042	H3k27me3 binding	1	1	1	0	
+PcG	PRC1	Psc	FBgn0005624	DNA binding (Fb) and Asociation to complex, chromatin, compactation and inhibition of its remodeling (review)	1	1	1	0	related to Su(z)2
+PcG	PRC1	Su(z)2	FBgn0265623	DNA binding (Fb) and Asociation to complex, chromatin, compactation and inhibition of its remodeling (review)	0	1	1	0	related to Psc
+PcG	PRC1	Ph-p	FBgn0004861	Oligomeryzation and protein protein interaction (with Sfmbt and Scm).	1	1	1	0	Flybase says it also binds to chaperones and DNA. Act toguether with Ph-d
+PcG	PRC1	Ph-d	FBgn0004860	Oligomeryzation and protein protein interaction (with Sfmbt and Scm).	1	1	1	0	Flybase says it also binds to chaperones and DNA. Act toguether with Ph-p
+PcG	PRC1	Sce	FBgn0003330	H2AK118 ubiquitylation (which promotes the recruit of PRC2 and start repression)	1	1	1	0	
+PcG	PRC1	Scm	FBgn0003334	interacts with PRC1 2 and PhoRC (POSSIBLE FUNCTIONAL LINK)	0	1	1	0	POSIBLE FUNCTIONAL LINK BETWEEN PRC1, PRC2 and PhoRC
+									
+PcG	PRC2	E(z)	FBgn0000629	catalyzes H3K27me3, low without. Esc and Su(z)12, acording to Fb also methilates  H3-K9.	1	1	1	0	
+PcG	PRC2	Su(z)12	FBgn0020887	required for H3K27me3, also contributes to nucleosome binding	1	1	1	0	
+PcG	PRC2	Esc	FBgn0000588	bind to E(z), the histon Core and H3K27me3 favouring PRC2 activity and H3K27me3 expansion. Active only in early embryogenesis	1	1	1	0	Functional equivalent of Escl
+PcG	PRC2	Escl	FBgn0032391	bind to E(z), the histon Core and H3K27me3 favouring PRC2 activity and H3K27me3 expansion. Active later	0	1	1	0	Functional equivalent of Esc
+PcG	PRC2	Caf1-55	FBgn0263979	not required in vitro. unclear role invivo (review) histone  and histon deacetylase binding among many others (Fb)	1	1	0	0	
+PcG	PRC2	Pcl	FBgn0003044	Required for higher H3K27me3 levels in embryo and E(z) recruitment in polytene and Ubx PRE.  DNA-binding transcription factor activity (only Fb)	0	1	1	0	marked as asociated proteins unlike the other PRC2
+PcG	PRC2	Jarid2	FBgn0036004	PRC2 stabilization and targeting to chromatin (in human homolog Jarid2), only present in a subset of PcG targets, enriched in H2AK118ub oligonucleosomes. Give Homeotic phenotypes.	0	1	1	0	marked as asociated proteins unlike the other PRC2
+PcG	PRC2	Jing	FBgn0086655	PRC2 stabilization and targeting to chromatin (in human homolog Aebp2)(not said in Fb), only present in a subset of PcG targets, enriched in H2AK118ub oligonucleosomes. Give Homeotic phenotypes	0	1	1	0	marked as asociated proteins unlike the other PRC2
+PcG	PRC2	Scm	FBgn0003334	interacts with PRC1 2 and PhoRC (POSSIBLE FUNCTIONAL LINK)	0	1	1	0	
+									
+PcG	PhoRC	Scm	FBgn0003334	interacts with PRC1 2 and PhoRC (POSSIBLE FUNCTIONAL LINK)	0	1	1	0	(complex) recruits PRC1 and facilitate the recruitment of PRC2 (but can happen independently). POSIBLE FUNCTIONAL LINK BETWEEN PRC1, PRC2 and PhoRC
+PcG	PhoRC	Pho	FBgn0002521	DNA binding protein, binds also to Sfmbt. Directly interacts with E(z) and Esc. Also RNApolII distal enhancer sequence specific DNA binding	1	1	1	0	(complex) recruits PRC1 and facilitate the recruitment of PRC2 (but can happen independently)
+PcG	PhoRC	Phol	FBgn0035997	same DNA-binding specifilty as Pho and human ortholog YY1. Also binds to Sfmbt. Directly interacts with Esc	1	1	1	0	(complex) recruits PRC1 and facilitate the recruitment of PRC2 (but can happen independently). Same motive as Pho
+PcG	PhoRC	dSfmbt	FBgn0032475	(about complex) involved in PcG recruitment into PREs./directly interacts with Scm and Pho/Phol/chromatin, methilated histon and protein binding	1	1	1	0	(complex) recruits PRC1 and facilitate the recruitment of PRC2 (but can happen independently)
+									
+PcG	dRAF	Psc	FBgn0005624	Asociation to complex and chromatin compactation and inhibition of chromatin remodeling, DNA binding (Fb only)	1	1	1	0	
+PcG	dRAF	Su(z)2	FBgn0265623	Asociation to complex and chromatin compactation and inhibition of chromatin remodeling, DNA binding (Fb only)	0	1	1	0	
+PcG	dRAF	Sce	FBgn0003330	H2AK118 ubiquitylation (promotes the recruit of PRC2 and start repression)	1	1	1	0	H2AK118ub function not well understood. Other PcG protein removes it later (Calypso)
+PcG	dRAF	Kdm2	FBgn0037659	demethilase of H3K36me2 (put by Ash1) and contributes to H2AK118ub	1	1	1	0	
+									
+PcG	PR-DUB	Asx	FBgn0261823	Asx increase catalytic activity of calypso, Geneticaly interacts with Pc and Scx and represses homeotic transcription. Chromatin binding 	1	1	1	0	 (Complex) H2AK118ub deubiquitinase, bounds at PREs and required for Hox gene silencing. 
+PcG	PR-DUB	Calypso	FBgn0262166	Chromatin binding and thiol dependent ubiquitin specific proteinase/hidrolase activity	1	1	1	0	 (Complex) H2AK118ub deubiquitinase, bounds at PREs and required for Hox gene silencing
+									
+PcG	other	Sxc	FBgn0261403	O-GlcNAcylation. Not required for all PcG targets,this modification in Ph avoids its agregation increasing its function	1	1	1	1	
+									
+PcG	other	Mxc	FBgn0260789	Regulate PcG repression indirectly by controling histone levels.  Fb supports this, saying its involved in assembly of the histon locus body but dont reffer to PcG	0	1	1	1	
+PcG	other	Crm	FBgn0000376	chromatin asociated protein mainly in S phase . interacts with Mus209. Biochemical role not clear	0	1	1	1	
+									
+PcG	PRE-binding/Recruiters	Pho	FBgn0002521	binds to DNA,Sfmb and interacts with E(z) and Esc. Form PhoRC and recruits PRC1 and facilitates PRC2	1	1	1	1	
+PcG	PRE-binding/Recruiters	Phol	FBgn0035997	binds to DNA,Sfmb and interacts with Esc. Form PhoRC and recruits PRC1 and facilitates PRC2	1	1	1	1	
+PcG	PRE-binding/Recruiters	Trl	FBgn0013263	Classified as a trxG protein, encodes GAGA transcription factor involved in chromatin modification	1	1	1	1	
+PcG	PRE-binding/Recruiters	Psq	FBgn0263102	Mediates the interaction of Polycomb group (Pc-G) members with PREs	1	1	1	1	Only mentioned.
+PcG	PRE-binding/Recruiters	Spps	FBgn0039169	Necesary for recruitment of PcG to some PREs. Sequence specific DNA binding	0	1	1	1	Only mentioned.
+PcG	PRE-binding/Recruiters	Cg	FBgn0000289	Repressor or Activator of gene expression depending on context, necesary for PcG recruitment at some PREs	0	1	1	1	Only mentioned.
+PcG	PRE-binding/Recruiters	Dsp1	FBgn0278608	NA	1	1	1	1	Only mentioned.
+PcG	PRE-binding/Recruiters	Grh	FBgn0259211	both activator and repressor, responsible for the proper expression of many genes. Sequence-specific DNA binding	1	1	1	1	Only mentioned.
+PcG	PRE-binding/Recruiters	Adf1	FBgn0284249	DNA-binding transcription activator activity	0	1	1	1	Only mentioned.
+PcG	PRE-binding/Recruiters	Z	FBgn0004050	Often found in the proximal promoter region of many genes where it helps to recruit the BRM nucleosome remodeling complex	1	1	1	1	same binding site as Fs(1)h. Only mentioned
+PcG	PRE-binding/Recruiters	Fs(1)h	FBgn0004656	NA	0	1	1	1	Same binding site as Z. Also acts as trxG! Only mentioned
+PcG	PRE-binding/Recruiters	Lolal	FBgn0022238	Related to the Trithorax group of chromatin regulators. DNA binding	0	0	0	1	Pc and trx page says it binds Trl and act as a PcG.
+									
+									
+									
+									
+									
+	recuerda meter el PcG de las cohesinas??								
