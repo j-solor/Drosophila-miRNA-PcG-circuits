@@ -8,21 +8,21 @@ divided in 3 parts each one containing a html of
 the Jupyter noteboook for fast access
   
 
-### Generation of the Refined miRNA target predictions set (RmiRTps)
+### A) Generation of the Refined miRNA target predictions set (RmiRTps)
 > Located at ["RmiRTps_generation" directory](https://github.com/j-solor/Drosophila-miRNA-PcG-circuits/tree/main/RmiRTps_generation)
 
 Code and data from the generation of RmiRTps through the integration of TargetScanFlyV7 predictions with Wessels et al., 2019 AGO-PARCLIP experimental microRNA target set.
 <br/><br/>
 
 
-### Generation of the Refined PRE predictions set (RPREps) 
+### B) Generation of the Refined PRE predictions set (RPREps) 
 > Located at ["RPREps_generation" directory](https://github.com/j-solor/Drosophila-miRNA-PcG-circuits/tree/main/RPREps_generation)
 
 Code and data from the generation of RPREps  through the intersection of SVM-MOCCA and Khabiri and Freddolino, 2019 Polycomb response element (PRE) predictions.
 <br/><br/>
 
 
-### Analysis of RmiRTps and RPREps
+### C) Analysis of miRNA-PcG/trxG crosstalk interactions: Definition of regulatory circuits
 > Located at ["Analysis" directory](https://github.com/JacoboSolorzano/TFM/tree/master/Analysis "Title")
 
 Code and data from the analysis of RmiRTps and RPREps. This section includes from the enrichment analysis and distance to the closest PRE calculation to the exploration of mIRNA-PcG/trxG regulatory circuits.
