@@ -1,8 +1,7 @@
+# A genome-wide computational approach to define microRNA-Polycomb/trithorax gene regulatory circuits in Drosophila
+
 <img src="https://github.com/j-solor/Drosophila-miRNA-PcG-circuits/blob/main/misc/Figure1.png">
 
-
-# In-silico analysis of the microRNAs and the Polycomb group of genes regulatory circuit in Drosophila melanogaster.
-> Master in Bioinformatica 
 All the data and code from ("insert reference here")
 is aviliable in this repository. It can be further
 divided in 3 parts each one containing a html of 
