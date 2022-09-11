@@ -4,9 +4,7 @@
 
 All the data and code from ("insert reference here")
 is aviliable in this repository. It can be further
-divided in 3 parts each one containing a html of 
-the Jupyter noteboook for fast access
-  
+divided in 3 parts each one containing a Jupyter noteboook producing the manuscript figures and more.
 
 ### A) Generation of the Refined miRNA target predictions set (RmiRTps)
 > Located at ["RmiRTps_generation" directory](https://github.com/j-solor/Drosophila-miRNA-PcG-circuits/tree/main/RmiRTps_generation)
